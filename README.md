@@ -16,7 +16,8 @@ Before running this script, you will need Python installed on your machine along
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/simple-web-scraper.git
+git clone https://github.com/Anuj020/DATA-1202/simple-web-scraper.git
+
 ```
 2. Install the required packages:
 ```
