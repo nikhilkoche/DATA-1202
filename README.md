@@ -20,7 +20,7 @@ git clone https://github.com/yourusername/simple-web-scraper.git
 ```
 2. Install the required packages:
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ### Running the Script
