@@ -21,7 +21,7 @@ git clone https://github.com/Anuj020/DATA-1202/simple-web-scraper.git
 ```
 2. Install the required packages:
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ### Running the Script
